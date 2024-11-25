@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the DREAM data stack! 
 
 **Here are some ideas to get you started:**
 
