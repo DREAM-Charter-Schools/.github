@@ -26,4 +26,4 @@ Getting set up:
 
 ## Want in?
 
-We're a small team with a big surface area. If building data and AI systems that directly change kids' lives sounds like your kind of problem, check out [careers at DREAM](https://wearedream.org/careers/).
+We're a small team with a big surface area. If building data and AI systems that directly change kids' lives sounds like your kind of problem, check out [careers at DREAM](https://wearedream.org/join-the-dream-team/).
