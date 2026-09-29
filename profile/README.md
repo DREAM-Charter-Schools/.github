@@ -24,14 +24,13 @@ Getting set up:
 2. On PyCharm's welcome screen choose **Get from VCS** (or *File > Project from Version Control*), pick **Git**, and paste the repo URL, e.g. `https://github.com/DREAM-Charter-Schools/All-Kids-Can.git`.
    * *Repo not found?* You need a personal access token: GitHub portrait (top right) > **Settings > Developer settings > Tokens (classic) > Generate new token**. Name it, set an expiration, check the scopes, and use it as your password when cloning and pushing.
 3. Set your interpreter: *File > Settings > Project > Python Interpreter > Add Interpreter > New VirtualEnv > OK*.
-4. Install the Google Cloud SDK https://cloud.google.com/sdk/docs/install 
+4. Install the Google Cloud SDK https://cloud.google.com/sdk/docs/install
+5. Then run in terminal:
+* gcloud auth login
+* gcloud auth application-default login
+* gcloud config set project fivetran-dream-charter-sc-8-fm
 
-Then run in terminal:
-gcloud auth login
-gcloud auth application-default login
-gcloud config set project fivetran-dream-charter-sc-8-fm
-
-5. Start building.
+6. Start building.
 
 ## Want in?
 
